@@ -1,1 +1,1 @@
-'''init com algo só pra subir no git''
+'''init com algo só pra subir no git'''
