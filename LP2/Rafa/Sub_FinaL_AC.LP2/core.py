@@ -13,20 +13,13 @@ while op != 5:
     op = int(input("Escolha a operação desejada: "))
     if op == 1:
         print(Calculadora().soma(a,b))
-        '''try:
-            print(Calculadora().soma(a,b))
-        except ParametroNegativoException:
-            print("Por favor, insira números positivos")'''
-
+       
     if op == 2:
         print(Calculadora().subtrai(a,b))
 
     if op == 3:
-       # print(Calculadora().multiplica(a,b))
-        try:
-            print(Calculadora().multiplica(a,b))
-        except OperacaoMuitoFacilException as e:
-            print("Mas essa é muito fácil mesmo, faça outra mais difícil! ",e)
+        print(Calculadora().multiplica(a,b))
+       
     if op == 4:
         print(Calculadora().divide(a,b))
 
