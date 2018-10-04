@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<script src="main.js"></script>
+	<title></title>
+</head>
+<body>
+	<h1>Formulário de Cadastro de Aluno</h1>
+	<fieldset>
+		<legend>Obrigatório:</legend>
+
+		<p>
+
+		<form  method="post">
+
+		<label for="nome">Nome completo:</label>
+		<input type="text" id="nome" name="nome_completo" maxlength="100" required>
+
+		<p>
+
+		<label for="idade">Idade:</label>
+		<input type="number" min="0" id="idade" name="anos_de_idade" required>
+
+		<p>
+
+		<legend>Sexo:</legend>
+
+		<p>
+
+		<label for="radioADS">Masculino</label>
+		<input type="radio" id="radioADS" value="sexoM" name="sexo"required><br>
+
+		<label for="radiof">Feminino</label>
+		<input type="radio" id="radiof" value="sexoF" name="sexo"required><br>
+
+		<p>
+
+		<legend>Curso:</legend>
+
+		<p>
+			
+		<label for="radioADS">ADS</label>
+		<input type="radio" id="radioADS" value="cursoADS" name="curso"required><br>
+
+		<label for="radioGTI">GTI</label>
+		<input type="radio" id="radioGTI" value="cursoGTI" name="curso"required><br>
+
+		<label for="radioBD">BD</label>
+		<input type="radio" id="radioBD" value="cursoBD" name="curso"required><br>
+
+		<p>
+
+		<label for="email">Email:</label>
+		<input type="email" id="email" name="email_usuario" required>
+
+		</fieldset>
+		<p>
+		<fieldset>
+
+		<legend>Opcional:</legend>
+		<p>
+
+		<label for="telefone">Telefone:</label>
+		<input type="tel" id="telefone" name="telefone_usuario" pattern= "[0-9]{2}[ ][0-9]{5}[ -][0-9]{4}" placeholder="Ex:xx xxxxx-xxxx">
+		<p>
+
+		<label for="color">Cor do Crachá:</label>
+		<input type="color" id="color" name="cor_cracha">
+
+		<p>
+
+		<label for="linkGH">Link do Github:</label>
+		<input type="url" id="linkGH" name="link_GitHub">
+
+		<p>
+
+		<label for="data">Data de Ingresso no Curso:</label>
+		<input type="date" id="data" name="date_ingresso">
+
+		<p>
+
+		<button type="submit">Continue</button>
+</body>
+</html>

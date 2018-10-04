@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<h1>Formulário de Contato</h1>
+	<form  method="post">
+
+		<label for="nome">Nome completo:</label>
+		<input type="text" id="nome" name="nome_completo" maxlength="100" required>
+	<p>
+
+		<label for="e-mail">E-mail:</label>
+		<input type="email" id="e-mail" name="e_mail" maxlength="100" required>
+
+	<p>
+		<legend>Assunto da mensagem</legend>
+	<p>
+		<label for="radio0">Bug</label>
+		<input type="radio" id="radio0" value="bug" name="assunto"required><br>
+
+		<label for="radio1">Reclamações</label>
+		<input type="radio" id="radio1" value="reclamacoes" name="assunto"required><br>
+
+		<label for="radio2">Sugestões</label>
+		<input type="radio" id="radio2" value="sugestões" name="assunto"required>
+		
+	
+	<p>
+
+
+	<label for="mensagem">Texto da mensagem:</label>
+	<p>
+	<textarea cols="50" rows="10" id="mensagem" name="mensagem_usuario" required></textarea>
+	<p>
+	
+		<legend>Palavras chave:</legend>
+	<p>
+		<label for="checkbox0">problemas</label>
+		<input type="checkbox" id="checkbox0" value="problemas" name="pc0"><br>problemas
+
+		<label for="checkbox1">tecnologia</label>
+		<input type="checkbox" id="checkbox1" value="tecnologia" name="pc1"><br>
+
+		<label for="checkbox2">impacta</label>
+		<input type="checkbox" id="checkbox2" value="impacta" name="pc2"><br>
+
+		<label for="checkbox3">email</label>
+		<input type="checkbox" id="checkbox3" value="email" name="pc3"><br>
+	<p>
+
+		<button type="submit">Continue</button>
+		
+		</button>
+	</form>
+</body>
+</html>

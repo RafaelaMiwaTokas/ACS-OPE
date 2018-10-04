@@ -1,0 +1,55 @@
+h1 
+{
+    font-size: 40px;
+    font-family: 'Karla', sans-serif;
+    margin-right:1600px;
+}
+
+.alinhar{
+	text-align: center;	
+	font-size: 25px;
+	font-family: 'Indie Flower', cursive;
+}
+table,.mat,.null{
+	
+	border:0.5px solid rgb(128,128,128);
+	letter-spacing: 2px;
+	border-collapse: collapse;
+	padding:10px 20px;
+	font-size: 16px;
+	text-align: center;	
+	font-family:'Karla', sans-serif;
+	font-weight: bolder;
+	margin-top: 16px;
+	
+
+}
+.mat,.null{
+	background: rgb(240,255,255);
+}
+#ac{
+	
+	background: rgb(0,255,0);
+}	
+#mACs{
+	
+	background: rgb(0,204,0);
+}	
+#p{
+	
+	background: rgb(255,243,0);
+}	
+#s{
+	
+	background: rgb(255,216,0);
+}	
+
+#mf{
+	
+	background: rgb(0,255,243);
+}
+
+th{
+	border-top: 1px solid white;
+	border-left:1px solid white;
+}
