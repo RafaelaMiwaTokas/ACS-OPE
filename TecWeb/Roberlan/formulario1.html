@@ -7,8 +7,8 @@
 </head> 
 <body> 
 
-<form name="menu" method="post" id="formulario"> 
-        <h1> Vaga de estágio em <font color="blue">G<font color="red">o<font color="yellon">o<font color="blue">g<font color="green">l<font color="red">e</font></font></font></font></font></font></h1>
+<form name="menu" method="post" id="formulario" action="formulario2.html"> 
+        <h1> Vaga de estágio em <font color="#4885ed">G<font color="#db3236">o<font color="#f4c20d">o<font color="#4885ed">g<font color="#3cba54">l<font color="#db3236">e</font></font></font></font></font></font></h1>
         <fieldset><legend>Graduação corrente</legend>
         <input type="radio" name="esc" id="icone"><label for="icone">Sistemas de Informação</label><br> 
          <input type="radio" name="esc" id="icone1"><label for="icone1">Ciência de Computação</label><br>
@@ -28,23 +28,37 @@
 
             </select><br><br>
 
-        <span>Outra não listada:</span><br>
-            <input type="text" class="input_text" name="assunto" id="assunto"/>
+    <span>Outra não listada:</span><br>
+  <input list="curso_ti" name="outros_cursos">
+  <datalist id="curso_ti">
+    <option value="Assenbly">
+    <option value="C#">
+    <option value="Delphi / Object Pascal">
+    <option value="Go">
+    <option value="MATLAB">
+    <option value="Objective-C">
+    <option value="Perl">
+    <option value="PHP">
+    <option value="PL/SQL">
+    <option value="R">
+    <option value="Scratch">
+    <option value="Swift">
+    <option value="Visual Basic.NET">
+  </datalist>
+  <br><br>
+
 
     </fieldset><br>
     <fieldset><legend>Além do Português, possui nível<br>avançado em algum outro idioma</legend>
-    	<label for="icone3">Inglês
-        <input type="checkbox" name="ing"></label><br>
-        <label for="icone4">Espanhol 
-        <input type="checkbox" name="esp"></label><br>
-        <label for="icone5">Francês
-        <input type="checkbox" name="fran"></label><br>
+    Inglês:<input type="checkbox" value="Inglês" name="ing"><br>
+    Espanhol:<input type="checkbox" value="Espanhol" name="esp"><br>
+    Francês:<input type="checkbox" value="Francês" name="fra"><br>
         <span>Outros idiomas:</span><br>
             <input type="text" class="input_text" name="idioma" id="leg"/>
         
     </fieldset>
-
-            <input type="submit" class="button" value="Prosseguir, só mais uma pagina ;-)"/>
+    	<input type="submit" name="button" id="button" value="Prosseguir, só mais uma pagina ;-)"/>
+	    
 <br><br>
 <progress value="33" max="100">
 </form>
