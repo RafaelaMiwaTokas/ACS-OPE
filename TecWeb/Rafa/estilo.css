@@ -1,0 +1,65 @@
+body{
+	font-family: 'Calibri', serif;
+}
+
+ul{
+	list-style-type: none;
+}
+
+a{
+	text-decoration-line: none;
+	color: rgb(0,0,238);
+}
+
+a:hover{
+	text-decoration-line: underline;
+}
+
+table{
+	border: 1px solid gray;
+	border-collapse: collapse;
+}
+
+th, td{
+	border: 1px solid gray;
+	padding: 5px;
+	font-family: 'Karla', 'Calibri';
+	
+}
+
+.aprendido{
+	background-color: lightgreen;
+}
+
+td:nth-of-type(4n+1){
+	text-align: center;
+}
+
+caption{
+	font-family: 'Calibri';
+	font-size: 20px;
+	margin-left: 11px;
+}
+
+th{
+	background-color: #9cfcfc;
+}
+
+
+.apaga-borda-superior{
+	border-top-style: hidden!important;
+}
+
+.apaga-borda-direita{
+	border-right-style: hidden!important;
+}
+
+.apaga-borda-esquerda{
+	border-left-style: hidden!important;
+}
+
+th#inv{
+	border-top-style: hidden!important;
+	border-left-style: hidden!important;
+	background-color: white;
+}
