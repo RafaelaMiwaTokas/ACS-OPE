@@ -1,0 +1,364 @@
+Administração Financeira; 
+Administração de Redes e Sistemas; 
+Administração de Redes e Sistemas Operacionais Livres; 
+Ambiente de Desenvolvimento de Jogos Digitais; 
+Ambiente de Desenvolvimento e Operação - DevOps; 
+Animação, Áudio e Vídeo para Jogos Digitais; 
+Análise Exploratória de Dado; 
+Análise Exploratória de Dados; 
+Análise Numérica; 
+Análise de Viabilidade de Projetos; 
+Análise e Modelagem de Sistemas; 
+Arquitetura de Computadores e Sistemas Operacionais; 
+Arquitetura de Redes de Computadores; 
+Arquitetura e Projeto de Sistemas; 
+Arte 2D para Jogos Digitais; 
+Arte 3D para Jogos Digitais; 
+Atividades Complementares; 
+Auditoria e Controle de TI (EAD); 
+Banco de Dados; 
+Business Agility; 
+Business Intelligence; 
+Cabeamento Estruturado; 
+Circuitos Digitais e Eletrônicos; 
+Circuitos Elétricos; 
+Ciências do Ambiente; 
+Compiladores; 
+Comportamento Organizacional; 
+Computação Cognitiva; 
+Computação em Nuvem; 
+Comunicação de Dados; 
+Comunicação e Expressão; 
+Comunicação e Expressão (EAD); 
+Comunicações Móveis; 
+Conceitos e Aplicações de Cálculo; 
+Contabilidade Financeira; 
+Contabilidade Gerencial; 
+Controle e Automação; 
+Cálculo; 
+Desenho e Concept Art para Jogos; 
+Desenvolvimento de Aplicações Distribuídas; 
+Desenvolvimento de Sistemas de Informação; 
+Desenvolvimento para Dispositivos Móveis; 
+Desenvolvimento para Internet das Coisas - IoT; 
+Design Thinking; 
+Design de Jogos I; 
+Design de Jogos II; 
+Design de Personagens para Jogos Digitais; 
+Diagnóstico e Gerenciamento de Redes; 
+Direito Aplicado à Administração; 
+Economia para Engenharia; 
+Eletricidade e Magnetismo Aplicados; 
+Eletrônica Analógica e Digital; 
+Empreendedorismo; 
+Engenharia de Requisitos; 
+Engenharia de Software; 
+Estratégia Competitiva e Corporativa; 
+Estratégia Organizacional; 
+Estrutura de Dados; 
+Estudos Complementares em Jogos Digitais; 
+Estágio supervisionado; 
+Finanças Corporativas e Mercado de Capitais; 
+Fundamentos da Administração; 
+Fundamentos de Banco de Dados; 
+Fundamentos de Sistemas Operacionais; 
+Game Level Design; 
+Gestão Estratégica de Pessoa; 
+Gestão Estratégica de TI; 
+Gestão da Cadeia de Suprimentos; 
+Gestão da Qualidade; 
+Gestão da Segurança de Informação (EAD); 
+Gestão de Custos; 
+Gestão de Infraestrutura de TI; 
+Gestão de Marketing; 
+Gestão de Operações; 
+Gestão de Projetos (EAD); 
+Gestão de Projetos - Optativa; 
+Gestão de Projetos de Inovação; 
+Gestão de Projetos e Programas; 
+Gestão de Projetos (EAD); 
+Gestão de Qualidade; 
+Gestão de TI (EAD); 
+Gestão Ágil de Projetos; 
+Governança Corporativa; 
+Governança de TI; 
+Indústria 4.0; 
+Instrodução à Internet das Coisas -IOT; 
+Integração e Desenvolvimento de Sistemas; 
+Inteligência Artificial; 
+Inteligência de Negócios; 
+Interface Homem-Computador (EAD); 
+Interfaces para Jogos Digitais (EAD); 
+Introdução aos Jogos Digitais; 
+Introdução à Internet das Coisas - IoT; 
+Introdução à Programação para Jogos Digitais; 
+Jogos Digitais para Dispositivos Móveis; 
+Jogos Digitais para Web; 
+Jogos de Estratégias; 
+Legislação e Ética; 
+Legislação e Ética (EAD); 
+Linguagem SQL: 80 horasLinguagem SQL; 
+Linguagem de Programação I; 
+Linguagem de Programação II; 
+Linguagens Formais e Autômatos; 
+Língua Brasileira de Sinais - LIBRAS (Optativa); 
+Lógica de Programação; 
+Macroeconomia; 
+Marketing Avançado; 
+Marketing para Jogos Digitais; 
+Matemática Aplicada; 
+Matemática Discreta; 
+Matemática Financeira; 
+Matemática para Engenharia; 
+Microeconomia; 
+Modelagem de Processos de Negócio; 
+Modelagem e Simulação de Sistemas Físicos; 
+Modelos de Negócio e Empreendedorismo; 
+Negócios Internacionais; 
+Oficina Projeto Empresa 1 - OPE1; 
+Oficina Projeto Empresa 1 - OPE1; 
+Oficina Projeto Empresa 2 - OPE2 (40 EAD); 
+Oficina Projeto Empresa 2 - OPE2; 
+Oficina Projeto Empresa 2 - OPE2; 
+Oficina Projeto Empresa 2 - OPE2; 
+Oficina Projeto Empresa 3 - OPE3 (40 EAD); 
+Optativa (Sociedade e Sustentabilidade / Língua Brasileira de Sinais - LIBRAS); 
+Optativa (Sociedade e Sustentabilidade / Língua Brasileira de Sinais - LIBRAS) (EAD); 
+Otimização de Sistemas Lineares; 
+Pensamento Crítico e Ética; 
+Processamento Digital de Sinais; 
+Processo de Produção de Jogos Digitais (EAD); 
+Programação para Jogos Digitais I; 
+Programação para Jogos Digitais II; 
+Programação para Redes; 
+Projeto de Sistemas Embarcados; 
+Qualidade de Software; 
+Qualidade e Testes para Jogos Digitais; 
+Raciocínio Analítico; 
+Redes Convergentes; 
+Redes IPV6; 
+Redes de Longa Distância; 
+Responsabilidade Social Corporativo; 
+Robôs Móveis Inteligentes; 
+Roteirização e Storyboard para Jogos Digitais; 
+Routing; 
+Segurança Cibernética; 
+Segurança e Auditoria de Sistemas; 
+Segurança em Redes e Infraestrutura; 
+Segurança em Sistemas; 
+Serviços de Redes de Computadores; 
+Sistemas Distribuídos e Cloud Computing; 
+Sistemas Integrados de Gestão; 
+Sistemas Tolerantes a Falhas; 
+Sociedade e Sustentabilidade; 
+Sociologia e Política; 
+Startup e Inovação; 
+Switching; 
+Tecnologia Web; 
+Teoria da Computação; 
+Tomada de Decisão e Negociação; 
+Trabalho de Conclusão de Curso 1 - TCC1; 
+Trabalho de Conclusão de Curso 2 - TCC2; 
+Tópicos Especiais em Redes de Computadores; 
+Tópicos Especiais em Tendências Tecnológicas; 
+UX e Design Thinking; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+160
+40
+80
+80
+80
+80
+80
+80
+40
+80
+40
+80
+80
+40
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+40
+80
+40
+80
+80
+80
+40
+80
+80
+80
+80
+80
+80
+80
+80
+80
+320
+80
+80
+80
+40
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+40
+40
+80
+80
+40
+80
+40
+40
+80
+80
+80
+80
+80
+80
+80
+40
+80
+80
+80
+80
+80
+80
+80
+40
+40
+80
+80
+80
+80
+40
+80
+80
+80
+80
+80
+80
+40
+80
+80
+80
+80
+80
+80
+120
+40
+120
+120
+40
+80
+120
+40
+40
+80
+80
+80
+80
+40
+80
+80
+80
+80
+80
+80
+80
+40
+40
+40
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+80
+40
+80
+80
+80
+80
+80
+80
+80
+80
+40
+80
+80
